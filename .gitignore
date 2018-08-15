@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+GB_DZ_Algorithms_08/Debug/
+GB_DZ_Algorithms_08/.vs/
